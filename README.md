@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Turning curiosity into projects, research, and shared learning.
+**Data Engineering · Analytics · Applied Machine Learning**
 
 [**Explore my portfolio ↗**](https://harshil-prashant-shah.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/harshilpshah/) · [Email](mailto:harshil.shah@tamu.edu)
 
@@ -10,16 +10,16 @@
 
 ---
 
-## A little about me
+## About
 
-I'm **Harshil**, an MS in Management Information Systems student at **Texas A&M University's Mays Business School**, with a BTech in Information Technology and Honours in DevOps from D. J. Sanghvi College of Engineering.
+I'm Harshil, an MS in Management Information Systems student at Texas A&M University's Mays Business School. I build data pipelines, analytics workflows, and machine learning applications, with a focus on data quality and results that can be checked against their sources.
 
-My work spans environmental data, multilingual email analysis, statistical test selection, and financial-market experiments. Alongside technical projects, I've worked on IoT project coordination, data analysis, teaching, and student leadership.
+My recent work includes an AWS data lakehouse for industrial battery support, multilingual phishing detection, and air-quality analysis. My background also includes industrial IoT project coordination and teaching.
 
 ## Selected projects
 
 ### [Project Gigavolt](https://github.com/harshilshah250504/Project-Gigavolt)
-An AWS data lakehouse and RAG assistant for industrial battery support. It uses telemetry, service records, and technical manuals to answer questions with source citations. Across 22 benchmark prompts, all-request P95 fell from 7.55 s to 4.98 s.
+An AWS data lakehouse and retrieval-augmented generation (RAG) assistant for industrial battery support. Incremental pipelines load service records and telemetry, and the assistant cites the records or manual passages behind its answers. Across 22 benchmark prompts, all-request P95 latency fell from **7.55 s to 4.98 s**. Verified the live application on EC2 through VS Code Remote SSH.
 
 **AWS EC2 · Python · SQL · MariaDB Vector · MongoDB · Ollama**
 
@@ -43,12 +43,15 @@ Market-data and financial-news experiments using sentiment analysis and neural-n
 **Python · TensorFlow · LSTM · CNN · RNN**  
 [Taylor & Francis reference](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003773504-127/stock-market-prediction-using-news-api-deep-learning-algorithms-harshil-shah-dhvani-shah-dharmil-parekh-janhavi-patel-richa-sharma)
 
-## Tools I work with
+## Technical toolkit
 
-**Data and analysis:** Python, SQL, pandas, NumPy, Excel, Power BI, Tableau.  
-**Machine learning:** scikit-learn, XGBoost, TensorFlow/Keras, SHAP.  
-**Development:** HTML, CSS, JavaScript, TypeScript, Git, DevOps.  
-**Collaboration:** project coordination, stakeholder communication, teaching, and documentation.
+| Area | Tools and methods | Example |
+|---|---|---|
+| Data engineering | Python, SQL, MariaDB, MongoDB, AWS EC2, incremental ETL, data validation | [Project Gigavolt](https://github.com/harshilshah250504/Project-Gigavolt) |
+| Retrieval and evaluation | MariaDB Vector, MiniLM embeddings, Ollama, source citation checks, latency benchmarking | [Gigavolt benchmark and provenance](https://github.com/harshilshah250504/Project-Gigavolt#benchmark-and-provenance) |
+| Analytics and visualization | pandas, NumPy, Excel, Power BI, Tableau | [AQInsight](https://github.com/harshilshah250504/FYP) |
+| Applied machine learning | scikit-learn, XGBoost, SHAP, TensorFlow/Keras | [Phishing detection](https://github.com/harshilshah250504/phishing-email-detection) · [FinWizard](https://github.com/harshilshah250504/finwizard) |
+| Application development | Git, TypeScript, Next.js, Prisma | [AQInsight](https://github.com/harshilshah250504/FYP) |
 
 ## Beyond the code
 
@@ -57,15 +60,10 @@ Market-data and financial-news experiments using sentiment analysis and neural-n
 - Student leadership through the Computer Society of India and technical events.
 - Mathematics teaching and community service with Father of Strays.
 
-## How to explore this work
-
-Each repository includes its own setup guide and scope. Research notebooks are presented with their current validation status; raw local datasets and credentials are excluded. Paper references may require publisher or Drive access.
-
 ---
 
 <div align="center">
 
-**Thanks for stopping by.**  
 [Portfolio](https://harshil-prashant-shah.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/harshilpshah/)
 
 </div>
