@@ -18,6 +18,11 @@ My work spans environmental data, multilingual email analysis, statistical test 
 
 ## Selected projects
 
+### [Project Gigavolt](https://github.com/harshilshah250504/Project-Gigavolt)
+An AWS data lakehouse and RAG assistant for industrial battery support. It uses telemetry, service records, and technical manuals to answer questions with source citations. Across 22 benchmark prompts, all-request P95 fell from 7.55 s to 4.98 s.
+
+**AWS EC2 · Python · SQL · MariaDB Vector · MongoDB · Ollama**
+
 ### [AQInsight](https://github.com/harshilshah250504/FYP)
 Air-quality exploration connecting pollution, weather, traffic, and wildfire context. Includes a Next.js application and Python research notebook.  
 **TypeScript · Next.js · Python · Prisma · Data visualization**  
@@ -37,14 +42,6 @@ Natural-language recommendations for non-parametric statistical tests, with expe
 Market-data and financial-news experiments using sentiment analysis and neural-network models.  
 **Python · TensorFlow · LSTM · CNN · RNN**  
 [Taylor & Francis reference](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003773504-127/stock-market-prediction-using-news-api-deep-learning-algorithms-harshil-shah-dhvani-shah-dharmil-parekh-janhavi-patel-richa-sharma)
-
-### [Personal Portfolio](https://github.com/harshilshah250504/portfolio)
-A responsive website bringing together my education, experience, projects, research, and interests.  
-**HTML · CSS · JavaScript · Vercel** · [Live website](https://harshil-prashant-shah.vercel.app/)
-
-### [Hotel Mystique Magic](https://github.com/harshilshah250504/Hotel-Mystique-Magic)
-A multi-page hospitality website covering rooms, dining, wellness, and services.  
-**HTML · CSS · JavaScript · Bootstrap**
 
 ## Tools I work with
 
