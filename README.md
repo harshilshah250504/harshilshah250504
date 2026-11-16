@@ -1,10 +1,14 @@
+![Harshil Prashant Shah · Texas A&M University](assets/header.svg)
+
 # Harshil Prashant Shah
 
 **MS in Management Information Systems, Texas A&M University · Mays Business School · Class of 2028**
 
 I build data systems that make it easier to find, check, and use operational information. My work spans SQL automation, industrial IoT, and applied machine learning. Before Texas A&M, I studied Information Technology with Honours in DevOps at D. J. Sanghvi College of Engineering in Mumbai.
 
-[Portfolio](https://harshil-prashant-shah.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/harshilpshah/) · [Email](mailto:harshil.shah@tamu.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-69364D?style=flat-square&logo=vercel&logoColor=white)](https://harshil-prashant-shah.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/harshilpshah/)
+[![Email](https://img.shields.io/badge/Email-36594D?style=flat-square&logo=gmail&logoColor=white)](mailto:harshil.shah@tamu.edu)
 
 ## Featured project
 
@@ -36,12 +40,33 @@ I also chaired a 100+ member Computer Society of India student chapter at D. J. 
 | [Statistical Test Prediction](https://github.com/harshilshah250504/statistical-test-prediction) | Natural-language recommendations and calculation workflows for non-parametric tests. | [Springer](https://link.springer.com/chapter/10.1007/978-3-032-12990-1_27) |
 | [FinWizard](https://github.com/harshilshah250504/finwizard) | Stock-market prediction experiments using historical prices, news sentiment, and deep learning. | [Taylor &amp; Francis](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003773504-127/stock-market-prediction-using-news-api-deep-learning-algorithms-harshil-shah-dhvani-shah-dharmil-parekh-janhavi-patel-richa-sharma) |
 
-## Technical toolkit
+## Tech stack
 
-| Area | Tools and methods |
-| --- | --- |
-| Data engineering | Python, SQL, MariaDB, MongoDB, AWS EC2, incremental ETL, data validation |
-| Search and evaluation | MariaDB Vector, MiniLM, Ollama, citation audits, latency benchmarking |
-| Analytics and visualization | pandas, Power BI, Tableau, Excel |
-| Applied machine learning | scikit-learn, XGBoost, SHAP, TensorFlow/Keras |
-| Application development | Git, TypeScript, Next.js, Prisma |
+**Data engineering and cloud**
+
+![Python](https://img.shields.io/badge/Python-69364D?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-69364D?style=flat-square)
+![MariaDB](https://img.shields.io/badge/MariaDB-69364D?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-69364D?style=flat-square&logo=mongodb&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-69364D?style=flat-square&logo=amazonec2&logoColor=white)
+
+**Applied ML and search**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-444F78?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-444F78?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-444F78?style=flat-square)
+![MiniLM](https://img.shields.io/badge/MiniLM-444F78?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-444F78?style=flat-square&logo=ollama&logoColor=white)
+
+**Analytics and applications**
+
+![pandas](https://img.shields.io/badge/pandas-36594D?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-36594D?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-36594D?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-36594D?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-36594D?style=flat-square&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-36594D?style=flat-square&logo=git&logoColor=white)
+
+## GitHub activity
+
+[![53 GitHub contributions in the year through November 16, 2026](assets/contributions.svg)](https://github.com/harshilshah250504#contribution-activity)
