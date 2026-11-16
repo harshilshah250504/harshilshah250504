@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 227" width="1040" height="227" role="img" aria-labelledby="title desc">
+  <title id="title">Project Gigavolt</title>
+  <desc id="desc">22 benchmark prompts. P95 fell from 7.55 to 4.98 seconds. All 25 emitted citations resolved to saved evidence.</desc>
+  <rect x=".5" y=".5" width="1039" height="226" rx="15" fill="#F5EBE3" stroke="#C8ACA9"/>
+  <text x="34" y="40" fill="#77364D" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">INDUSTRIAL BATTERY SUPPORT</text>
+  <text x="32" y="89" fill="#281D25" font-family="Arial,sans-serif" font-size="45" font-weight="700">Project Gigavolt</text>
+  <path d="M34 111H1006M335 131v70m348-70v70" fill="none" stroke="#C8ACA9"/>
+  <g fill="#281D25" font-family="Arial,sans-serif" font-weight="700" font-size="37">
+    <text x="34" y="168">22</text>
+    <text x="366" y="168">7.55 → 4.98 s</text>
+    <text x="715" y="168">25 / 25</text>
+  </g>
+  <g fill="#683E4F" font-family="Arial,sans-serif" font-size="19">
+    <text x="34" y="197">Benchmark prompts</text>
+    <text x="366" y="197">P95 response latency</text>
+    <text x="715" y="197">Citations resolved</text>
+  </g>
+</svg>

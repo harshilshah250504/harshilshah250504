@@ -4,24 +4,19 @@
 
 **MS in Management Information Systems, Texas A&M University · Mays Business School · Class of 2028**
 
-I build data systems that make it easier to find, check, and use operational information. My work spans SQL automation, industrial IoT, and applied machine learning. Before Texas A&M, I studied Information Technology with Honours in DevOps at D. J. Sanghvi College of Engineering in Mumbai.
+I work on data systems, from checking why reports disagree to building tools that show where an answer came from. I studied Information Technology with Honours in DevOps at D. J. Sanghvi College of Engineering before moving from Mumbai to Texas A&M.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-69364D?style=flat-square&logo=vercel&logoColor=white)](https://harshil-prashant-shah.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/harshilpshah/)
-[![Email](https://img.shields.io/badge/Email-36594D?style=flat-square&logo=gmail&logoColor=white)](mailto:harshil.shah@tamu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-69364D?style=flat-square)](https://www.linkedin.com/in/harshilpshah/)
+[![Email](https://img.shields.io/badge/Email-69364D?style=flat-square&logo=gmail&logoColor=white)](mailto:harshil.shah@tamu.edu)
 
 ## Featured project
 
-### [Project Gigavolt](https://github.com/harshilshah250504/Project-Gigavolt)
+[![Project Gigavolt · 22 benchmark prompts · P95 latency 7.55 to 4.98 seconds · 25 of 25 citations resolved](assets/gigavolt.svg)](https://github.com/harshilshah250504/Project-Gigavolt)
 
-An AWS-based data platform for industrial battery support. It brings together service records, IoT telemetry, and technical manuals so a field engineer can ask a question and follow the answer back to the record or manual passage.
+Gigavolt brings together service records, IoT telemetry, and technical manuals on AWS so a field engineer can ask a question and check the original record or passage. On the same 22-prompt EC2 workload, sequential throughput rose from **0.363 to 0.780 requests/s**. The citation audit matched all 25 emitted references to saved evidence.
 
-| Benchmark on EC2 | Baseline | Final |
-| --- | ---: | ---: |
-| P95 response latency across 22 prompts | 7.55 s | 4.98 s |
-| Sequential throughput | 0.363 requests/s | 0.780 requests/s |
-
-The final citation audit resolved **25 of 25 emitted references** to saved evidence. [Architecture, code, and benchmark scope](https://github.com/harshilshah250504/Project-Gigavolt#benchmark-and-provenance) · [Portfolio case study](https://harshil-prashant-shah.vercel.app/#gigavolt)
+[Repository and architecture](https://github.com/harshilshah250504/Project-Gigavolt) · [Benchmark and provenance](https://github.com/harshilshah250504/Project-Gigavolt#benchmark-and-provenance) · [Portfolio case study](https://harshil-prashant-shah.vercel.app/#gigavolt)
 
 ## Experience
 

@@ -1,21 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="246" viewBox="0 0 1200 246" role="img" aria-labelledby="title description">
-  <title id="title">Harshil Prashant Shah</title>
-  <desc id="description">Texas A&amp;M University, Management Information Systems</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 226" width="1040" height="226" role="img" aria-labelledby="title">
+  <title id="title">Harshil Prashant Shah · Mumbai to College Station</title>
   <defs>
-    <linearGradient id="cover" x2="1" y2="1" gradientUnits="objectBoundingBox">
-      <stop stop-color="#24171F"/>
-      <stop offset="1" stop-color="#74354D"/>
-    </linearGradient>
-    <clipPath id="edges"><rect width="1200" height="246" rx="14"/></clipPath>
+    <clipPath id="frame"><rect width="1040" height="226" rx="16"/></clipPath>
+    <pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse"><path d="M23 0H0V23" fill="none" stroke="#C495A1" opacity=".16"/></pattern>
   </defs>
-  <g clip-path="url(#edges)">
-    <rect width="1200" height="246" fill="url(#cover)"/>
-    <path d="M0 218C237 194 432 237 651 217S1025 153 1200 180V246H0Z" fill="#E7A99D" opacity=".19"/>
-    <path d="M0 234C230 210 470 251 694 229S1000 182 1200 204V246H0Z" fill="#E7A99D" opacity=".22"/>
-    <path d="M941 38a100 100 0 1 1 0 200 100 100 0 0 1 0-200Z M941 18a120 120 0 1 1 0 240 120 120 0 0 1 0-240Z" fill="none" stroke="#F1BFB0" opacity=".2"/>
-    <path d="M915 53h52v166h-52zM905 77h72m-72 118h72" fill="none" stroke="#F1BFB0" stroke-width="2" opacity=".32"/>
-    <text x="62" y="71" fill="#F1BFB0" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">TEXAS A&amp;M UNIVERSITY</text>
-    <text x="58" y="134" fill="#FFF5ED" font-family="Arial,sans-serif" font-size="61" font-weight="700">Harshil Prashant Shah</text>
-    <text x="62" y="179" fill="#F2DAD4" font-family="Arial,sans-serif" font-size="25">Management Information Systems</text>
+  <g clip-path="url(#frame)">
+    <rect width="1040" height="226" fill="#271C25"/>
+    <rect x="704" width="336" height="226" fill="#482637"/>
+    <rect x="704" width="336" height="226" fill="url(#grid)"/>
+    <g transform="translate(886 113) rotate(-28)" fill="none" stroke="#E8AC98">
+      <ellipse rx="108" ry="75" opacity=".4"/>
+      <ellipse rx="88" ry="59" opacity=".78"/>
+      <path d="M-58 0H58M0-42V42" opacity=".26"/>
+      <rect x="-35" y="-11" width="70" height="22" rx="2"/>
+      <path d="M-26-11v22M26-11v22M-43 0h-8m94 0h8"/>
+      <circle cx="58" cy="-26" r="6" fill="#F5BD9E" stroke="none"/>
+      <path d="M-56 28Q-6-41 58-26" stroke-dasharray="3 5" opacity=".64"/>
+    </g>
+    <path d="M43 43h47" stroke="#E8AC98" stroke-width="3"/>
+    <text x="43" y="79" fill="#E8AC98" font-family="Arial,sans-serif" font-weight="700" font-size="15" letter-spacing="3">MUMBAI → COLLEGE STATION</text>
+    <text x="40" y="142" fill="#FFF4E8" font-family="Arial,sans-serif" font-weight="700" font-size="56">Harshil Prashant Shah</text>
+    <text x="43" y="180" fill="#E5C7CF" font-family="Arial,sans-serif" font-size="22">Management Information Systems · Texas A&amp;M University</text>
   </g>
 </svg>
